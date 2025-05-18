@@ -32,7 +32,8 @@ joblib
 LabelEncoder & StandardScaler
 Optional: GUI and real-time packet capture via scapy or socket
 
-🚀 How It Works
+🚀 How It Works:
+
 1.Model Training on Google Colab:
 Open the train_model.py file or notebook in Google Colab.
 Upload the UNSW_NB15_training-set.csv dataset to your Colab environment.
